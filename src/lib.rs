@@ -1,0 +1,9 @@
+pub mod distributions;
+pub mod discrete;
+pub mod continuous;
+pub mod limit_theorems;
+pub mod bayesian;
+pub mod hypothesis_testing;
+pub mod copulas;
+pub mod mcmc;
+pub mod application;
